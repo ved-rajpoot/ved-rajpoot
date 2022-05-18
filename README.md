@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ved </h1>
+<h1 align="center">Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Ved!</h1>
 <h3 align="center">Full-stack web developer | Competitive programmer </h3>
 <!--
 **ved-rajpoot/ved-rajpoot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
