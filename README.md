@@ -1,4 +1,4 @@
-### Hello! I'm Ved
+### Hi there 👋
 
 <!--
 **ved-rajpoot/ved-rajpoot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
