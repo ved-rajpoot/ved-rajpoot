@@ -1,5 +1,5 @@
-### Hi there 👋
-
+<h1 align="center">Hi 👋, I'm Ved </h1>
+<h3 align="center">Full-stack web developer | Competitive programmer </h3>
 <!--
 **ved-rajpoot/ved-rajpoot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -46,3 +46,12 @@ Here are some ideas to get you started:
 <!-- <a href="https://codesandbox.io/u/anuraghazra"> -->
 <!--   <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" /> -->
 <!-- </a> -->
+
+
+<h3 align="left">Connect with me:</h3>
+
+<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="vedtwitter" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ved-pratap-singh-rajpoot-34a7b91b2/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vedlinkedin" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="vedfb" height="30" width="40" /></a>
+<a href="https://instagram.com/ved_._.___" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="adi_srivastava123" height="30" width="40" /></a>
+</p>
