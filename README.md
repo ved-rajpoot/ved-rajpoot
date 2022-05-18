@@ -25,3 +25,24 @@ Here are some ideas to get you started:
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>     -->
 
 ![Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=ved-rajpoot&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+
+#### Top Repositories
+
+
+<a href="https://github.com/ved-rajpoot/Quizerr">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ved-rajpoot&repo=Quizerr&theme=buefy" />
+</a>
+<a href="https://github.com/ved-rajpoot/DADIDUE.COM">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ved-rajpoot&repo=DADIDUE.COM&theme=buefy" />
+</a>
+
+<br />
+<br />
+
+<!-- <a href="https://twitter.com/ved-rajpoot"> -->
+<!--   <img align="right" alt="vedimg | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" /> -->
+<!-- </a> -->
+<!-- <a href="https://codesandbox.io/u/anuraghazra"> -->
+<!--   <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" /> -->
+<!-- </a> -->
