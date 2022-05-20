@@ -51,15 +51,17 @@ Here are some ideas to get you started:
 <!-- </a> -->
 
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 
 <a href="mailto:vedbannarajpoot@gmail.com"><img height='25' src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/ved-pratap-singh-rajpoot-34a7b91b2/"><img height='25' src="https://img.shields.io/badge/linkedin-1771E6.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://instagram.com/ved_._.___"><img height='25' src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href=""><img height='25' src="https://img.shields.io/badge/facebook-0077B5.svg?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 <a href=""><img height='25' src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-
+ -->
 <br>
 
 ### You're visitor number:<br>
 ![Visitor Count](https://profile-counter.glitch.me/ved-rajpoot/count.svg)
+
+- 📫 How to reach me **vedpratap.rajpoot@gmail.com**
