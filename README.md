@@ -30,16 +30,6 @@ Here are some ideas to get you started:
 ![Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=ved-rajpoot&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 
-#### Top Repositories
-
-
-<a href="https://github.com/ved-rajpoot/Quizerr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ved-rajpoot&repo=Quizerr&theme=buefy" />
-</a>
-<a href="https://github.com/ved-rajpoot/DADIDUE.COM">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ved-rajpoot&repo=DADIDUE.COM&theme=buefy" />
-</a>
-
 <br />
 <br />
 
@@ -59,9 +49,5 @@ Here are some ideas to get you started:
 <a href=""><img height='25' src="https://img.shields.io/badge/facebook-0077B5.svg?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 <a href=""><img height='25' src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
  -->
-<br>
-
-### You're visitor number:<br>
-![Visitor Count](https://profile-counter.glitch.me/ved-rajpoot/count.svg)
 
 - 📫 How to reach me **vedpratap.rajpoot@gmail.com**
